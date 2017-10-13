@@ -1,0 +1,21 @@
+PODS:
+  - IPDFCameraViewController (0.0.1)
+  - PIRipple (1.1.0)
+  - StringScore_Swift (0.1.1)
+  - TesseractOCRiOS (4.0.0)
+
+DEPENDENCIES:
+  - IPDFCameraViewController
+  - PIRipple (= 1.1.0)
+  - StringScore_Swift
+  - TesseractOCRiOS (= 4.0.0)
+
+SPEC CHECKSUMS:
+  IPDFCameraViewController: c7e346c760d39ed7a137121bedfcecfde041cde6
+  PIRipple: 1e9e559c801a994f157aaec38989633dda4f90e2
+  StringScore_Swift: 821102bf4b5253725ee1b418b4fe5d21547a2a0f
+  TesseractOCRiOS: 90638afbe43d082433f2e76b384c7901d23956df
+
+PODFILE CHECKSUM: 92e038bec73dd561dc364713c12a64a52fb45893
+
+COCOAPODS: 1.0.0
